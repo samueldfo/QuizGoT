@@ -164,6 +164,11 @@ class ViewController: UIViewController {
         
         viewFeedback.hidden = false // mostra viewFeedBack
         
+        lbFeedback.adjustsFontSizeToFitWidth = true
+        lbFeedback.textAlignment = .Center
+        lbFeedback.numberOfLines = 0
+
+        
         var answer : Answer = questions[currentQuestion].answers[answerId] //seleciona reposta
         
         if(answer.isCorrect == true){
