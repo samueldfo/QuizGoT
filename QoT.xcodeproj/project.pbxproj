@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7E1192C51D4C3ABD004C34FC /* QuizGoT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuizGoT.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E1192C51D4C3ABD004C34FC /* QoT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QoT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7E1192C81D4C3ABD004C34FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7E1192CA1D4C3ABD004C34FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		7E1192CD1D4C3ABD004C34FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		7E1192C61D4C3ABD004C34FC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7E1192C51D4C3ABD004C34FC /* QuizGoT.app */,
+				7E1192C51D4C3ABD004C34FC /* QoT.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7E1192C41D4C3ABD004C34FC /* QuizGoT */ = {
+		7E1192C41D4C3ABD004C34FC /* QoT */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7E1192D71D4C3ABD004C34FC /* Build configuration list for PBXNativeTarget "QuizGoT" */;
+			buildConfigurationList = 7E1192D71D4C3ABD004C34FC /* Build configuration list for PBXNativeTarget "QoT" */;
 			buildPhases = (
 				7E1192C11D4C3ABD004C34FC /* Sources */,
 				7E1192C21D4C3ABD004C34FC /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = QuizGoT;
+			name = QoT;
 			productName = QuizGoT;
-			productReference = 7E1192C51D4C3ABD004C34FC /* QuizGoT.app */;
+			productReference = 7E1192C51D4C3ABD004C34FC /* QoT.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -106,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 7E1192C01D4C3ABD004C34FC /* Build configuration list for PBXProject "QuizGoT" */;
+			buildConfigurationList = 7E1192C01D4C3ABD004C34FC /* Build configuration list for PBXProject "QoT" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -119,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7E1192C41D4C3ABD004C34FC /* QuizGoT */,
+				7E1192C41D4C3ABD004C34FC /* QoT */,
 			);
 		};
 /* End PBXProject section */
@@ -260,8 +260,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = QuizGoT/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samueldfo.QuizGoT;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.samueldfo.QoT;
+				PRODUCT_NAME = QoT;
 			};
 			name = Debug;
 		};
@@ -271,15 +271,15 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = QuizGoT/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.samueldfo.QuizGoT;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.samueldfo.QoT;
+				PRODUCT_NAME = QoT;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7E1192C01D4C3ABD004C34FC /* Build configuration list for PBXProject "QuizGoT" */ = {
+		7E1192C01D4C3ABD004C34FC /* Build configuration list for PBXProject "QoT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7E1192D51D4C3ABD004C34FC /* Debug */,
@@ -288,7 +288,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7E1192D71D4C3ABD004C34FC /* Build configuration list for PBXNativeTarget "QuizGoT" */ = {
+		7E1192D71D4C3ABD004C34FC /* Build configuration list for PBXNativeTarget "QoT" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				7E1192D81D4C3ABD004C34FC /* Debug */,
