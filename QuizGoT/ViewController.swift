@@ -181,7 +181,6 @@ class ViewController: UIViewController {
         
     }
     
-
     
     @IBAction func btnFeedbackAction(sender: AnyObject) {
         viewFeedback.hidden = true //esconde view feedback
